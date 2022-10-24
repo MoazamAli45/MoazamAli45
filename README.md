@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/syedmoazamali13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedmoazamali13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syed moazam ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed moazam ali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syedmoazamali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed moazam ali" height="30" width="40" /></a>
 <a href="https://fb.com/syed moazam ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed moazam ali" height="30" width="40" /></a>
 <a href="https://instagram.com/syed.moazam_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed.moazam_ali" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/syed moazam ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="syed moazam ali" height="30" width="40" /></a>
