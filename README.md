@@ -1,7 +1,7 @@
 ![logo](https://github.com/MoazamAli45/MoazamAli45/blob/master/Github%20banner.jpg )
 <h1 align="center">Hi 👋, I'm Syed Moazam Ali</h1>
 <h3 align="center">A passionate Front end Web Developer from Pakistan</h3>
-
+<img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazamali45&label=Profile%20views&color=0e75b6&style=flat" alt="moazamali45" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://syedmoazamali.netlify.app/](https://syedmoazamali.netlify.app/)
@@ -25,4 +25,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moazamali45&show_icons=true&locale=en&layout=compact" alt="moazamali45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moazamali45&" alt="moazamali45" /></p>
+
 
