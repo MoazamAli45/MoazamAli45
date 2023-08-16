@@ -1,7 +1,7 @@
 ![logo](https://github.com/MoazamAli45/MoazamAli45/blob/master/Github%20banner.jpg )
-
+![SyedMoazamAli's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoazamAli45&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm Syed Moazam Ali</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <h3 align="center">A passionate Front end Web Developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
