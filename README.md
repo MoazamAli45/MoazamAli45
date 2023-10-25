@@ -1,4 +1,4 @@
-![logo](https://github.com/MoazamAli45/MoazamAli45/blob/master/Github%20banner.jpg )
+
 [![An image of @moazamali45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moazamali45)](https://holopin.io/@moazamali45)
 ![SyedMoazamAli's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoazamAli45&show_icons=true&theme=radical)
 
