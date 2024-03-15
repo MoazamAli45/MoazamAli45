@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazamali45&label=Profile%20views&color=0e75b6&style=flat" alt="moazamali45" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://syedmoazamali.netlify.app/](https://syedmoazamali.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.syedmoazamali.online/](https://www.syedmoazamali.online/)
 
 - 💬 Ask me about **reactJS**
 
