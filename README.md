@@ -27,6 +27,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MoazamAli45&show_icons=true&theme=radical" alt="SyedMoazamAli's GitHub stats" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moazamali45&show_icons=true&locale=en&layout=compact" alt="moazamali45" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moazamali45&" alt="moazamali45" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=moazamali45)](https://git.io/streak-stats)
 
 
