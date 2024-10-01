@@ -1,4 +1,4 @@
-
+![logo](https://github.com/MoazamAli45/MoazamAli45/blob/e230d6c5a5b272400c949448d3b71063dfe39dd7/github-banner.png)
 <h1 align="center">Hi 👋, I'm Syed Moazam Ali</h1>
 
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
