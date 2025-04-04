@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazamali45&label=Profile%20views&color=0e75b6&style=flat" alt="moazamali45" /> </p>
 
 # 💫 About Me:
-- 👨‍💻 All of my projects are available at [https://www.syedmoazamali.online/](https://www.syedmoazamali.online/)
+- 👨‍💻 All of my projects are available at [https://www.syedmoazamali-dev.vercel.app/](https://syedmoazamali-dev.vercel.app/)
 
 - 💬 Ask me about **reactJS**
 
