@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Moazamali45&theme=radical)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Moazamali45&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moazamali45&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moazamali45&theme=radical&hide_border=false&layout=compact)
 [![An image of @moazamali45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moazamali45)](https://holopin.io/@moazamali45)
 
 
